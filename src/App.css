@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.light {
+  background-color: #eee;
+  color: #313131;
+}
+
+.dark {
+  background-color: #313131;
+  color: #eee;
+}
+
+button {
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 15px;
+}
